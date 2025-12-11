@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/prem-03829/Bento_grid)
-- Live Site URL: [Vercel link](https://your-live-site-url.com)
+- Live Site URL: [Vercel link](https://bento-grid-one-puce.vercel.app/)
 
 ## My process
 
